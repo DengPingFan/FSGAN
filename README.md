@@ -1,12 +1,14 @@
 
 # FSGAN
 
-We provide PyTorch implementations for our paper "Deep Facial Synthesis: A New Challenge".
++ Here is the official PyTorch implementation for our paper "Deep Facial Synthesis: A New Challenge".
 
-This project achieve the translation between face photos and artistic portrait drawings using a GAN-based model.
-You may find useful information in  [training/testing tips](docs/tips.md).
++ This project achieve the translation between face photos and artistic portrait drawings using a GAN-based model.
+    You may find useful information in  [training/testing tips](docs/tips.md).
 
-[[Paper]](#) [[Colab-demo]](#)
++ 📕Find our paper on [arXiv](https://arxiv.org/abs/2112.15439).
+
++ ✨Try our online [**Colab demo**](https://colab.research.google.com/drive/1rv49wo3b4AZIIbEQdVQR2RfZF4p7YIOl?usp=sharing) to generate your own facial sketches.
 
 
 ## Our Proposed Framework
