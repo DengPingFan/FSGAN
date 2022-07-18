@@ -89,12 +89,12 @@ If you find our code and metric useful in your research, please cite our papers.
   year={2022}
 }
 
-@article{Fan2019ScootAP,
-  title={Scoot: A Perceptual Metric for Facial Sketches},
-  author={Deng-Ping Fan and Shengchuan Zhang and Yu-Huan Wu and Yun Liu and Ming-Ming Cheng and Bo Ren and Paul L. Rosin and Rongrong Ji},
-  journal={2019 IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year={2019},
-  pages={5611-5621}
+@inproceedings{fan2019scoot,
+  title={Scoot: A perceptual metric for facial sketches},
+  author={Fan, Deng-Ping and Zhang, ShengChuan and Wu, Yu-Huan and Liu, Yun and Cheng, Ming-Ming and Ren, Bo and Rosin, Paul L and Ji, Rongrong},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5612--5622},
+  year={2019}
 }
 ```
 
