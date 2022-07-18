@@ -82,11 +82,11 @@ Thanks to the great codebase of [APDrawingGAN](https://github.com/yiranran/APDra
 If you find our code and metric useful in your research, please cite our papers.
 
 ```
-@aticle{Fan2021FS2K,
+@aticle{Fan2022FS2K,
   title={Facial-Sketch Synthesis: A New Challenge},
   author={Deng-Ping, Fan and Ziling, Huang and Peng, Zheng and Hong, Liu and Xuebin, Qin and Luc, Van Gool},
-  journal={arXiv},
-  year={2021}
+  journal={Machine Intelligence Research},
+  year={2022}
 }
 
 @article{Fan2019ScootAP,
