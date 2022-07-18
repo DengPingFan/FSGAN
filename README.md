@@ -17,6 +17,16 @@
 
 ## Sample Results
 
+#### Facial Sketch Synthesis
+
+|                       *Style-1*                       |                      *Style-2*                       |                       *Style-3*                       |
+| :---------------------------------------------------: | :--------------------------------------------------: | :---------------------------------------------------: |
+| <img src="README.assets/0.gif"  height=125 width=170> | <img src="README.assets/1.gif" height=125 width=170> | <img src="README.assets/2.gif" height=125 width=170>  |
+| <img src="README.assets/3.gif" height=125 width=170>  | <img src="README.assets/4.gif" height=125 width=170> | <img src="README.assets/5.gif" height=125 width=170>  |
+| <img src="README.assets/8.gif" height=125 width=170>  | <img src="README.assets/9.gif" height=125 width=170> | <img src="README.assets/10.gif" height=125 width=170> |
+
+#### Teaser
+
 ![Teaser](README.assets/Teaser.png)
 
 ## Prerequisites
