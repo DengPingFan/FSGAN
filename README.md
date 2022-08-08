@@ -12,7 +12,7 @@
 
 + Find the introduction video made by MIR:
 
-https://finder.video.qq.com/251/20302/stodownload?X-snsvideoflag=xV1&adaptivelytrans=0&bizid=1023&dotrans=2991&encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQCRC5RWkqYv3dV7SEW5a9N01h0AvmuRiaYEqnAcldU66aBPH2PTmzn3Qa1DKT05KEt8HBOSDysxwZa0cj6LweLjW&hy=SH&idx=1&m=&token=AxricY7RBHdVibDwHFh9wXhBnheDSxI6VAtOdxXJkA5Xhpzh7Ql0Ya9c28PTtF6ziccKfEJ5X8ay9k&websvrscene=8
+[![intro-video](https://finder.video.qq.com/251/20302/stodownload?X-snsvideoflag=xV1&adaptivelytrans=0&bizid=1023&dotrans=2991&encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQCRC5RWkqYv3dV7SEW5a9N01h0AvmuRiaYEqnAcldU66aBPH2PTmzn3Qa1DKT05KEt8HBOSDysxwZa0cj6LweLjW&hy=SH&idx=1&m=&token=AxricY7RBHdVibDwHFh9wXhBnheDSxI6VAtOdxXJkA5Xhpzh7Ql0Ya9c28PTtF6ziccKfEJ5X8ay9k&websvrscene=8/0.jpg)](https://finder.video.qq.com/251/20302/stodownload?X-snsvideoflag=xV1&adaptivelytrans=0&bizid=1023&dotrans=2991&encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQCRC5RWkqYv3dV7SEW5a9N01h0AvmuRiaYEqnAcldU66aBPH2PTmzn3Qa1DKT05KEt8HBOSDysxwZa0cj6LweLjW&hy=SH&idx=1&m=&token=AxricY7RBHdVibDwHFh9wXhBnheDSxI6VAtOdxXJkA5Xhpzh7Ql0Ya9c28PTtF6ziccKfEJ5X8ay9k&websvrscene=8)
 
 ## Our Proposed Framework
 
