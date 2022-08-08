@@ -6,10 +6,13 @@
 + This project achieve the translation between face photos and artistic portrait drawings using a GAN-based model.
     You may find useful information in  [training/testing tips](docs/tips.md).
 
-+ 📕Find our paper on [arXiv](https://arxiv.org/abs/2112.15439).
++ 📕Find our paper on [Springer](https://link.springer.com/article/10.1007/s11633-022-1349-9) [Machine Intelligence Research](https://www.mi-research.net/en/article/doi/10.1007/s11633-022-1349-9) [arXiv](https://arxiv.org/abs/2112.15439).
 
 + ✨Try our online [**Colab demo**](https://colab.research.google.com/drive/1rv49wo3b4AZIIbEQdVQR2RfZF4p7YIOl?usp=sharing) to generate your own facial sketches.
 
++ Find the introduction video made by MIR:
+
+https://finder.video.qq.com/251/20302/stodownload?X-snsvideoflag=xV1&adaptivelytrans=0&bizid=1023&dotrans=2991&encfilekey=Cvvj5Ix3eewK0tHtibORqcsqchXNh0Gf3sJcaYqC2rQCRC5RWkqYv3dV7SEW5a9N01h0AvmuRiaYEqnAcldU66aBPH2PTmzn3Qa1DKT05KEt8HBOSDysxwZa0cj6LweLjW&hy=SH&idx=1&m=&token=AxricY7RBHdVibDwHFh9wXhBnheDSxI6VAtOdxXJkA5Xhpzh7Ql0Ya9c28PTtF6ziccKfEJ5X8ay9k&websvrscene=8
 
 ## Our Proposed Framework
 
