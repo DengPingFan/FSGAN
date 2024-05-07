@@ -49,9 +49,9 @@ pip install -r requirements.txt
 
 We conduct all the experiments on the currently largest Facial Sketch Synthesis (FSS) dataset FS2K. For more details about this dataset, please visit its [repo](https://github.com/DengPingFan/FS2K).
 
-In this project, we follow the [APDrawingGAN](https://github.com/yiranran/APDrawingGAN/) to do some preprocessing on original images, including aligning photo by key points ([MTCNN](https://arxiv.org/abs/1604.02878)), segment human portrait regions ([U2-Net](https://arxiv.org/abs/2005.09007)). You can download the preprocessed FS2K dataset [here](https://drive.google.com/drive/folders/1A7EphDz3-Y2k9v1SBTY-dEQ7lxKD7wTt?usp=sharing).
+In this project, we follow the [APDrawingGAN](https://github.com/yiranran/APDrawingGAN/) to do some preprocessing on original images, including aligning photo by key points ([MTCNN](https://arxiv.org/abs/1604.02878)), segment human portrait regions ([U-2-Net](https://arxiv.org/abs/2005.09007)). You can download the preprocessed FS2K dataset [here](https://drive.google.com/drive/folders/1A7EphDz3-Y2k9v1SBTY-dEQ7lxKD7wTt?usp=sharing).
 
-**If you want to conduct the preprocessing on other images, see [preprocessing section](preprocess/readme.md).**
+> If you want to conduct the preprocessing on other images, please refer to the [preprocessing section](https://github.com/yiranran/APDrawingGAN/blob/master/preprocess/readme.md) in APDrawingGAN and [our own codes](https://drive.google.com/drive/folders/1DpfkwOOb5RafXw0rmKTrCEPGFvoB_dP1) for more smooth preprocessing with MTCNN and U-2-Net.
 
 ### Train
 - Run `python -m visdom.server`
